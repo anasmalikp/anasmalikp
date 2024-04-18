@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, C#**
 
-- 📫 How to reach me **anasmalikp@gmail.com**
+- 📫 reach me on **anasmalikp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
