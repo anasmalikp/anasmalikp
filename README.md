@@ -43,3 +43,5 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasmalikp&show_icons=true&locale=en" alt="anasmalikp" />
 
+![Footer](https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg)
+
