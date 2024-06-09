@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Malik</h1>
-<h3 align="center">A Passionate Full Stack DotNet developer from India</h3>
+<h3 align="center">A Passionate Full Stack DotNet Developer from India</h3>
 <div align="center"> 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anasmalikp&theme=chartreuse-dark)](https://git.io/streak-stats)
