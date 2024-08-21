@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working as a Dot Net Developer in Bridgeon Solutions LLP
 
-- 💬 Ask me about JavaScript, React, C#, ASP.NET Core, SQL Server
+- 💬 Ask me about **JavaScript, React, C#, ASP.NET Core, SQL Server**
 
 - 📫 reach me on **anasmalikp@gmail.com**
 
@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/anasmal63404222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasmal63404222" height="30" width="40" /></a>
 <a href="https://instagram.com/_anazmalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anazmalik" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/anas-malik-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasmalikp" height="30" width="40" /></a>
 </p>
 
 <div align="center>
