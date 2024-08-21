@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **DotNet Core**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, C#
+- 💬 Ask me about **JavaScript, React, C#, ASP.NET Core, SQL Server
 
 - 📫 reach me on **anasmalikp@gmail.com**
 
