@@ -15,9 +15,7 @@
 
 - 🔭 I’m currently working as a Dot Net Developer in Bridgeon Solutions LLP
 
-- 🌱 I’m currently learning **DotNet Core**
-
-- 💬 Ask me about **JavaScript, React, C#, ASP.NET Core, SQL Server
+- 💬 Ask me about JavaScript, React, C#, ASP.NET Core, SQL Server
 
 - 📫 reach me on **anasmalikp@gmail.com**
 
