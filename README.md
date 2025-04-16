@@ -68,6 +68,7 @@
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></td>
   <td><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="Redis"/></td>
   <td><img src="https://www.remoterocketship.com/images/blog/Entity%20Framework-icon-for-blog.jpg" width="40" height="40" alt="Entity Framework"/></td>
+  <td><img src="https://avatars.githubusercontent.com/u/83077457?v=4" width="40" height="40" alt="Entity Framework"/></td>
 </tr>
 </table>
 
