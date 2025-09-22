@@ -14,7 +14,7 @@
 </p>
 
 - 🔭 I’m currently working as a Software Engineer at **Logifex IT Solutions**
-- 💬 Ask me about **JavaScript, React, C#, ASP.NET Core, SQL Server**
+- 💬 Ask me about **JavaScript, React, C#, ASP.NET Core, SQL Server, Worker Service, Arduino**
 - 📫 Reach me at **anasmalikp@gmail.com**
 
 ---
