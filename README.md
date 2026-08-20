@@ -1,79 +1,134 @@
-<h1 align="center">Hi 👋, I'm Anas Malik</h1>
-<h3 align="center">A Passionate Full Stack .NET Developer from India</h3>
+# 👋 Hi, I'm Anas Malik
+
+### Software Engineer · Full-Stack .NET Developer · IoT Enthusiast
+
+I'm a Software Engineer focused on building **scalable web applications, desktop applications, backend services, and IoT-integrated systems**.
+
+I primarily work with **C#, ASP.NET Core, React, SQL Server, Docker, and cloud technologies**, while also exploring distributed systems and embedded development.
+
+---
+
+### 🚀 What I Do
+
+- 💻 Build full-stack applications with **ASP.NET Core & React**
+- ⚙️ Design REST APIs, background services, and backend systems
+- 🖥️ Develop Windows desktop applications using **WPF**
+- 🗄️ Work with relational and NoSQL databases
+- 🐳 Containerize and deploy applications using **Docker**
+- ☁️ Explore **AWS, Kubernetes, and distributed systems**
+- 🔌 Build applications integrating **IoT devices and hardware**
+- 🧩 Work with **microservices, Redis, Kafka, and event-driven architectures**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Backend & .NET
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+**C# · ASP.NET Core · .NET · Entity Framework Core · Dapper · REST APIs · Worker Services · WPF**
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css" />
+</p>
+
+**React · TypeScript · JavaScript · Redux · Tailwind CSS · HTML · CSS**
+
+#### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,mongodb,redis" />
+</p>
+
+**SQL Server · MySQL · MongoDB · Redis**
+
+#### DevOps, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman" />
+</p>
+
+**Docker · Kubernetes · AWS · Git · Postman**
+
+#### IoT & Embedded
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+</p>
+
+**Arduino · ESP32 · ESP8266 · MQTT · Hardware Integration**
+
+---
+
+### 📌 Currently Working On
+
+🔭 **Software Engineer at Logifex IT Solutions**
+
+I'm currently working on software involving **.NET applications, backend services, desktop applications, APIs, databases, and hardware-integrated systems.**
+
+💡 I'm also continuously improving my knowledge of:
+
+- Distributed systems
+- Microservices
+- Event-driven architecture
+- Cloud infrastructure
+- IoT & embedded systems
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=anasmalikp&theme=chartreuse-dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmalikp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasmalikp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmalikp&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anasmalikp&label=Profile%20views&color=0e75b6&style=flat" alt="anasmalikp" />
-</p>
+<div align="center">
 
-- 🔭 I’m currently working as a Software Engineer at **Logifex IT Solutions**
-- 💬 Ask me about **JavaScript, React, C#, ASP.NET Core, SQL Server, Worker Service, Arduino**
-- 📫 Reach me at **anasmalikp@gmail.com**
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/anasmal63404222" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/_anazmalik" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/anas-malik-p" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools:
-<div align="left">
-  
-<table>
-<tr>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" height="40" alt=".NET Core"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="40" height="40" alt="TypeScript"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></td>
-</tr>
-<tr>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/></td>
-</tr>
-<tr>
-  <td><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="40" height="40" alt="Electron"/></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="40" alt="Arduino"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></td>
-</tr>
-</table>
-
----
-
-### 🗄️ Databases & ORMs:
-<table>
-<tr>
-  <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="Redis"/></td>
-  <td><img src="https://www.remoterocketship.com/images/blog/Entity%20Framework-icon-for-blog.jpg" width="40" height="40" alt="Entity Framework"/></td>
-  <td><img src="https://avatars.githubusercontent.com/u/83077457?v=4" width="40" height="40" alt="Entity Framework"/></td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=anasmalikp&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<img src="https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg" width="100%" alt="footer banner" />
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/anas-malik-p">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anasmalikp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/anasmalikp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anasmalikp&label=Profile%20Views&color=6366f1&style=flat-square" />
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Build. Learn. Ship. Repeat.
+
+<img src="https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg" width="100%" alt="footer" />
+
+</div>
