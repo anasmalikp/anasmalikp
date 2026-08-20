@@ -26,7 +26,7 @@ I primarily work with **C#, ASP.NET Core, React, SQL Server, Docker, and cloud t
 #### Backend & .NET
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET" />
 </p>
 
 **C# · ASP.NET Core · .NET · Entity Framework Core · Dapper · REST APIs · Worker Services · WPF**
@@ -34,15 +34,18 @@ I primarily work with **C#, ASP.NET Core, React, SQL Server, Docker, and cloud t
 #### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css" alt="Frontend technologies" />
 </p>
 
 **React · TypeScript · JavaScript · Redux · Tailwind CSS · HTML · CSS**
 
-#### Databases
+#### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,mongodb,redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" />
 </p>
 
 **SQL Server · MySQL · MongoDB · Redis**
@@ -50,7 +53,7 @@ I primarily work with **C#, ASP.NET Core, React, SQL Server, Docker, and cloud t
 #### DevOps, Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman" alt="DevOps and cloud technologies" />
 </p>
 
 **Docker · Kubernetes · AWS · Git · Postman**
@@ -58,7 +61,7 @@ I primarily work with **C#, ASP.NET Core, React, SQL Server, Docker, and cloud t
 #### IoT & Embedded
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" alt="IoT and embedded technologies" />
 </p>
 
 **Arduino · ESP32 · ESP8266 · MQTT · Hardware Integration**
@@ -85,9 +88,9 @@ I'm currently working on software involving **.NET applications, backend service
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasmalikp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anasmalikp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Anas Malik's GitHub stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmalikp&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmalikp&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 </div>
 
@@ -95,7 +98,7 @@ I'm currently working on software involving **.NET applications, backend service
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anasmalikp&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=anasmalikp&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -105,13 +108,13 @@ I'm currently working on software involving **.NET applications, backend service
 
 <p>
   <a href="https://linkedin.com/in/anas-malik-p">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:anasmalikp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/anasmalikp">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -120,7 +123,7 @@ I'm currently working on software involving **.NET applications, backend service
 ### 👀 Profile Views
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=anasmalikp&label=Profile%20Views&color=6366f1&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=anasmalikp&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -129,6 +132,6 @@ I'm currently working on software involving **.NET applications, backend service
 
 ### 💻 Build. Learn. Ship. Repeat.
 
-<img src="https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg" width="100%" alt="footer" />
+<img src="https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg" width="100%" alt="Footer banner" />
 
 </div>
